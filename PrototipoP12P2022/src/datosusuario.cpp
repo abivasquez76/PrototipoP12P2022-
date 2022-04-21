@@ -12,7 +12,7 @@ int datosusuario::obtenerUsuario() const
 {
    return usuario;
 }
-void datosusuario::establecerUsuario( int valorUsuario )
+void datosusuario::establecerusuario( int valorUsuario )
 {
    usuario = valorUsuario;
 }

@@ -56,11 +56,10 @@ usuario::usuario()
             break;
         }
     }
-*/
 
 
 }
-/*int opcionUs(){
+/int opcionUs(){
     //system("cls");
     cout<<"\n\t\t\t\t------------------"<<endl;
 	cout<<"\t\t\t\t |   registrar  |"<<endl;
