@@ -13,3 +13,20 @@
 1650572294 c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\include\datospaciente.h
 	<iostream>
 
+1650579786 source:c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\src\paciente.cpp
+	"paciente.h"
+	"datospaciente.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1650578044 c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\include\paciente.h
+
+1650579022 source:c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\src\datosusuario.cpp
+	"datosusuario.h"
+	<cstring>
+	<iostream>
+
+1650576929 c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\include\datosusuario.h
+

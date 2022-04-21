@@ -1,11 +1,12 @@
 #include <iostream>
 #include "usuario.h"
+#include "paciente.h"
 
 
 using namespace std;
 
 int escribirOpcion();
-enum Opciones { pacientes =1, FIN };
+enum Opciones { paciente =1, FIN };
 
 int main()
 {
@@ -14,9 +15,9 @@ int main()
     while (( opcion = escribirOpcion() ) != FIN)
     {
         switch ( opcion ) {
-            case empleados:
+            case paciente:
                 {
-                    Empleado claseempleado;
+                    paciente clasepaciente
                 }
             break;
 
@@ -38,6 +39,7 @@ int escribirOpcion(){
 
    return opcionMenu;
 
-}
 
+    }
+    }
 
