@@ -2,3 +2,14 @@
 1584205420 source:c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\main.cpp
 	<iostream>
 
+1650572360 source:c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\src\datospaciente.cpp
+	"datospaciente.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+
+1650572294 c:\users\abiva\proyectos\prototipop12p2022\parcial2\prototipop12p2022\include\datospaciente.h
+	<iostream>
+
